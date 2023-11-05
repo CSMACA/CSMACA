@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CSMACA
+- 👋 Hi, I’m Alan, I'm currently a Software Engineer III at IDEMIA.
 - 👀 I’m interested in gaming and game development.
 - 🌱 I’m currently learning threading, pathfinding algorithms, and user interface design.
 
